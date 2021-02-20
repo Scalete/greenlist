@@ -41,7 +41,8 @@
     background: #023A15;
 }
 
-.main .center {
+.main .center,
+.describe .center {
     display: flex;
 }
 
@@ -144,4 +145,46 @@
     bottom: 16px;
     top: 320px;
     z-index: 1;
+}
+
+.describe {
+    margin-top: 128px;
+    height: 965px;
+}
+
+.describe .describe_text .title {
+    font-family: GT Super Display;
+    width: 613px;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 66px;
+    line-height: 84px;
+    letter-spacing: 2px;
+    color: #000000;
+    margin-bottom: 33px;
+}
+
+.describe .describe_text .subtitle {
+    width: 460px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 27px;
+    color: #000000;
+    margin-bottom: 127px;
+}
+
+.describe .center {
+    align-items: center;
+}
+
+.describe .woman {
+    margin-left: 146px;
+}
+
+.slack {
+    height: 969px;
+    background: #FFE6E2;
+    border-radius: 0px;
 }
