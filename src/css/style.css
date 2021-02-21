@@ -222,3 +222,76 @@
     display: block;
     margin: 0 auto;
 }
+
+.functions {
+    min-height: 1600px;
+    padding-top: 250px;
+    padding-bottom: 128px;
+}
+
+.functions .title {
+    font-family: GT Super Display;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 53px;
+    line-height: 72px;
+    letter-spacing: 2px;
+    color: #000000;
+    width: 276px;
+}
+
+.functions .text {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 27px;
+    color: #000000;
+    width: 368px;
+}
+
+.functions .functions_educate {
+    height: 407px;
+    display: flex;
+    justify-content: space-between;
+    align-items:center;
+}
+
+.functions .functions_achiev {
+    height: 407px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.functions .functions_score {
+    height: 407px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.functions .functions_educate .functions_educate_text {
+    margin: 64px 214px 76px 99px;
+}
+
+.functions .functions_educate .vote {
+    margin-right: 43px;
+}
+
+.functions .functions_achiev .functions_achiev_text {
+    margin: 49px 163px 63px 142px;
+}
+
+.functions .functions_achiev .achievments {
+    margin-left: 43px;
+}
+
+.functions .functions_score .functions_score_text {
+    margin: 76px 188px 90px 124px;
+}
+
+.functions .functions_score .score {
+    margin-right: 43px;
+}
+
