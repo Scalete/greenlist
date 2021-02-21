@@ -1,0 +1,136 @@
+@font-face {
+    font-family: 'Roboto';
+    src: url('../fonts/Roboto-Bold.eot');
+    src: url('../fonts/Roboto-Bold.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Roboto-Bold.woff2') format('woff2'),
+        url('../fonts/Roboto-Bold.woff') format('woff'),
+        url('../fonts/Roboto-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Roboto';
+    src: url('../fonts/Roboto-Black.eot');
+    src: url('../fonts/Roboto-Black.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Roboto-Black.woff2') format('woff2'),
+        url('../fonts/Roboto-Black.woff') format('woff'),
+        url('../fonts/Roboto-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Roboto';
+    src: url('../fonts/Roboto-Light.eot');
+    src: url('../fonts/Roboto-Light.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Roboto-Light.woff2') format('woff2'),
+        url('../fonts/Roboto-Light.woff') format('woff'),
+        url('../fonts/Roboto-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Roboto';
+    src: url('../fonts/Roboto-Medium.eot');
+    src: url('../fonts/Roboto-Medium.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Roboto-Medium.woff2') format('woff2'),
+        url('../fonts/Roboto-Medium.woff') format('woff'),
+        url('../fonts/Roboto-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Roboto';
+    src: url('../fonts/Roboto-Thin.eot');
+    src: url('../fonts/Roboto-Thin.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Roboto-Thin.woff2') format('woff2'),
+        url('../fonts/Roboto-Thin.woff') format('woff'),
+        url('../fonts/Roboto-Thin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Roboto';
+    src: url('../fonts/Roboto-Regular.eot');
+    src: url('../fonts/Roboto-Regular.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Roboto-Regular.woff2') format('woff2'),
+        url('../fonts/Roboto-Regular.woff') format('woff'),
+        url('../fonts/Roboto-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'GTSuperDisplay';
+    src: url('../fonts/GT/GTSuperDsTrial-Rg.eot');
+    src: url('../fonts/GT/GTSuperDsTrial-Rg.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/GT/GTSuperDsTrial-Rg.woff2') format('woff2'),
+        url('../fonts/GT/GTSuperDsTrial-Rg.woff') format('woff'),
+        url('../fonts/GT/GTSuperDsTrial-Rg.ttf') format('truetype'),
+        url('../fonts/GT/GTSuperDsTrial-Rg.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'GTSuperDisplay';
+    src: url('../fonts/GT/GTSuperDsTrial-Md.eot');
+    src: url('../fonts/GT/GTSuperDsTrial-Md.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/GT/GTSuperDsTrial-Md.woff2') format('woff2'),
+        url('../fonts/GT/GTSuperDsTrial-Md.woff') format('woff'),
+        url('../fonts/GT/GTSuperDsTrial-Md.ttf') format('truetype'),
+        url('../fonts/GT/GTSuperDsTrial-Md.otf') format('opentype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'GTSuperDisplay';
+    src: url('../fonts/GT/GTSuperDsTrial-Lt.eot');
+    src: url('../fonts/GT/GTSuperDsTrial-Lt.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/GT/GTSuperDsTrial-Lt.woff2') format('woff2'),
+        url('../fonts/GT/GTSuperDsTrial-Lt.woff') format('woff'),
+        url('../fonts/GT/GTSuperDsTrial-Lt.ttf') format('truetype'),
+        url('../fonts/GT/GTSuperDsTrial-Lt.otf') format('opentype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'GTSuperDisplay';
+    src: url('../fonts/GT/GTSuperDsTrial-Bd.eot');
+    src: url('../fonts/GT/GTSuperDsTrial-Bd.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/GT/GTSuperDsTrial-Bd.woff2') format('woff2'),
+        url('../fonts/GT/GTSuperDsTrial-Bd.woff') format('woff'),
+        url('../fonts/GT/GTSuperDsTrial-Bd.ttf') format('truetype'),
+        url('../fonts/GT/GTSuperDsTrial-Bd.otf') format('opentype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'GTSuperDisplay';
+    src: url('../fonts/GT/GTSuperDsTrial-Su.eot');
+    src: url('../fonts/GT/GTSuperDsTrial-Su.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/GT/GTSuperDsTrial-Su.woff2') format('woff2'),
+        url('../fonts/GT/GTSuperDsTrial-Su.woff') format('woff'),
+        url('../fonts/GT/GTSuperDsTrial-Su.ttf') format('truetype'),
+        url('../fonts/GT/GTSuperDsTrial-Su.otf') format('opentype');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
