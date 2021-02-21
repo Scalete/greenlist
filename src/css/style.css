@@ -187,4 +187,38 @@
     height: 969px;
     background: #FFE6E2;
     border-radius: 0px;
+    padding-top: 180px;
+
+}
+
+.slack .slack_title {
+    font-family: GT Super Display;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 59px;
+    line-height: 77px;
+    text-align: center;
+    letter-spacing: 3px;
+    width: 670px;
+    color: #000000;
+    margin: 0 auto;
+    margin-bottom: 41px;
+}
+
+.slack .slack_text {
+    width: 578px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 27px;
+    text-align: center;
+    color: #000000;
+    margin: 0 auto;
+    margin-bottom: 79px;
+}
+
+.slack .slack_chat {
+    display: block;
+    margin: 0 auto;
 }
